@@ -184,22 +184,22 @@ nav ul li a:hover {
 
 #wheelwise {
     grid-area: wheelwise;
-    background-image: url("../mod-18-hw/images/wheelwise.jpg");
+    background-image: url("../images/wheelwise.jpg");
 }
 
 #weather {
     grid-area: weather;
-    background-image: url("../mod-18-hw/images/weather-laptop-mobile");
+    background-image: url("../images/weather-laptop-mobile.jpg");
 }
 
 #beasties {
     grid-area: beasties;
-    background-image: url("../mod-18-hw/images/beasties-mobile.jpg");
+    background-image: url("../images/beasties-mobile.jpg");
 }
 
 #travel {
     grid-area: travel;
-    background-image: url("../mod-18-hw/images/travel-app.jpg");
+    background-image: url("../images/travel-app.jpg");
 }
 
 .workGridArea {
